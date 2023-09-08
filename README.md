@@ -1,2 +1,4 @@
 # Smartphone-Activity-Tracking
-Smartphone Activity Tracking Analysis using different ML models. This project predicts the activity using smartphone sensors barometer, accelerometer. Applies different ML models to predict what activity the user is performing based on the given dataset.
+Smartphone Activity Tracking Analysis using different ML models. 
+This project predicts the activity using smartphone sensors barometer, accelerometer. Applies different ML models to predict what activity the user is performing based on the given dataset.
+Run the Jupyter notebook file and you are good to go.
